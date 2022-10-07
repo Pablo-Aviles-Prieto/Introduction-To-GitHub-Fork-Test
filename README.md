@@ -8,6 +8,7 @@
 # Introduction to GitHub
 
 _Get started using GitHub in less than an hour._
+_Project created with the goal to play/test around Git/GitHub_
 
 <!-- 
   <<< Author notes: Start of the course >>> 
